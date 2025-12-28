@@ -5,7 +5,7 @@
 ## 📺 Community & Socials  
 👉 Subscribe on YouTube: [White Hat Pro](https://www.youtube.com/@WHP-TEAM)  
 👉 Join us on Telegram: [WHP](https://t.me/hacker829)  
-👉 Follow on Instagram: [@Surajxwhp(https://www.instagram.com/surajxwhp?igsh=eTRmbGwxbDF2ZnVp)  
+👉 Follow on Instagram:[@Surajxwhp](https://www.instagram.com/surajxwhp?igsh=eTRmbGwxbDF2ZnVp)  
 👉 Discord: [ ]( )  
 
 ---
