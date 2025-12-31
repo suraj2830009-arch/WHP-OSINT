@@ -7,11 +7,11 @@
 📺 YouTube : https://www.youtube.com/@WHP-TEAM
 📷 Instagram : https://www.instagram.com/surajxwhp?igsh=eTRmbGwxbDF2ZnVp
 💬 Telegram : https://t.me/hacker829
-🎭 Discord : 
+🎭 Discord : https://discord.gg/CDxxrjMF5N
 
 Disclaimer ⚠️  
 This tool is made for **educational and research purposes only**.  
-Hackers Colony or Azhar will not be responsible for any misuse.  
+White Hat Pro or Suraj will not be responsible for any misuse.  
 
 ✨ Code by Suraj (White Hat Pro)
 """
@@ -36,7 +36,7 @@ import concurrent.futures
 init(autoreset=True)
 
 # Path to store unlock flag
-UNLOCK_FILE = os.path.expanduser("~/.hco_osint_unlock")
+UNLOCK_FILE = os.path.expanduser("~/.whp_osint_unlock")
 
 # ---------- Unlock / YouTube Redirect ----------
 def unlock():
