@@ -35,7 +35,7 @@ All inside **Termux/Linux terminal** with colorful interface.
 
 ```bash
 # Clone the repository
-git clone https://github.com/suraj2830009-arch/WHP-OSINT-.git
+git clone https://github.com/suraj2830009-arch/WHP-OSINT.git
 
 # Change directory
 cd WHP-OSINT 
